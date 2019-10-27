@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Devops](#devops)
 * [Full Stack](#full-stack)
-* [Data Analysis](#data-analysis-and-vizualization)
+* [Data Analysis and Viz](#data-analysis-and-vizualization)
     - [d3test](#d3test) - React d3 integration
 
 # Devops
