@@ -14,7 +14,9 @@
 ### AspCalc
 ASP dosing and reimbursement calculator. This calculator is generated using create-react-app and various python data analysis libraries. Data sets from CMS were manipulated and combined to create a single usable json file which feeds the calculator UI
 
-<img src="https://github.com/yevgenybulochnik/web-assets/blob/master/aspcalc/aspcalc.gif">
+<p align="center">
+    <img src="https://github.com/yevgenybulochnik/web-assets/blob/master/aspcalc/aspcalc.gif">
+</p>
 
 ### [d3test](https://github.com/yevgenybulochnik/d3test)
 This repo is an example setup for [d3](https://d3js.org) integration for [react](https://reactjs.org). It allows for pannable, zoomable and resposive svg charts.
