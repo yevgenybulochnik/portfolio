@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Devops](#devops)
 * [Full Stack](#full-stack)
+    - [HRSA Findings Dashboard](#hrsa-findings-dashboard)
 * [Data Analysis and Viz](#data-analysis-and-vizualization)
     - [Medimap](#medimap) - Medicare reimbursement geomap
     - [AspCalc](#aspcalc) - ASP/CMS reimbursement calculator
